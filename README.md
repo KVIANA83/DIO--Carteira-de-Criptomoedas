@@ -1,2 +1,4 @@
-# DIO--Carteira-de-Criptomoedas
-Blockchain Developer with Solidity - Criando e Utilizando a Sua Carteira de Criptomoedas
+# DIO - Bootcamp Blockchain Developer with Solidity 
+
+## Desafio de Projeto 
+### Criando e Utilizando a Sua Carteira de Criptomoedas
